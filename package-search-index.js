@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.amereu.java.usersjdbcmysql.model"},{"l":"org.amereu.java.usersjdbcmysql.repository"},{"l":"org.amereu.java.usersjdbcmysql.util"}];updateSearchResults();
